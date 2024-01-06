@@ -13,7 +13,7 @@ Official code for the paper 'Spatial-temporal Forecasting for Regions without Ob
 The details are in the requirement.txt
 
 ## Dataset
--Dataset: including the AirQ and PEMS08
+-Dataset: including the AirQ and PEMS08's traffic data, and unobserved-valid-observed idxs for each split
 -data: (1) AirQ and PEMS08 contain the temporal adjacent matrix (2) each 1-hop sub-graph's region graph are in the floder "region_graph"
 
 ## Document
