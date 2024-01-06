@@ -16,6 +16,8 @@ The details are in the requirement.txt
 -Dataset: including the AirQ and PEMS08's traffic data, and unobserved-valid-observed idxs for each split
 -data: (1) AirQ and PEMS08 contain the temporal adjacent matrix (2) each 1-hop sub-graph's region graph are in the floder "region_graph"
 
+Down data and Dataset from this link: https://drive.google.com/drive/folders/1IfwQRto6yFWRC6lwrKVCzMSm7Ivae8Qh?usp=sharing
+
 ## Document
 - models\cl_gcc_cnn_all.py
 - preprocess\split_dat_set.py horizontally or vertically split the dataset
