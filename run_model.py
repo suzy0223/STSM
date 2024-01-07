@@ -122,7 +122,7 @@ if __name__ == "__main__":
     parser.add_argument('--batch_size', default=32, type=int)
     parser.add_argument('--lr', default=1e-2, type=float)
     parser.add_argument('--epochs', default=100, type=int)
-    parser.add_argument('--patience', default=50, type=int)
+    parser.add_argument('--patience', default=100, type=int)
     parser.add_argument('--debug', default=1, type=int)
     parser.add_argument('--seed', default=0, type=int)
     parser.add_argument('--ada', default=1, type=int)

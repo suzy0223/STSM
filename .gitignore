@@ -33,3 +33,7 @@
 
 /Dataset
 /data
+/models/__pycache__
+/utils/__pycache__
+/log_train
+/model_saving
