@@ -1,5 +1,5 @@
 # STSM
-Official code for the paper 'Spatial-temporal Forecasting for Regions without Observations'
+Official code for the paper 'Spatial-temporal Forecasting for Regions without Observations', EDBT 2024
 
 ## Requirements
 -[torch](https://pytorch.org/)
